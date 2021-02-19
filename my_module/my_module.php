@@ -12,8 +12,8 @@ class My_module extends Module
     {
         $this->name = 'my_module';
         $this->tab = 'administration';
-        $this->version = '1.0.0';
-        $this->author = 'ircykk';
+        $this->version = '1.0.1';
+        $this->author = 'Grzesiu';
         $this->need_instance = 0;
         $this->bootstrap = true;
 
